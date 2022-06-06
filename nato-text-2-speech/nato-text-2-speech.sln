@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nato-text-2-speech", "nato-text-2-speech.csproj", "{7CFC5F4B-AE56-4ED9-9A30-779118F173D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CFC5F4B-AE56-4ED9-9A30-779118F173D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CFC5F4B-AE56-4ED9-9A30-779118F173D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CFC5F4B-AE56-4ED9-9A30-779118F173D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CFC5F4B-AE56-4ED9-9A30-779118F173D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA83C63-8AFD-42F6-BDA3-6639694E8376}
+	EndGlobalSection
+EndGlobal

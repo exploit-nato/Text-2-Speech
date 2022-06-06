@@ -1,0 +1,11 @@
+T:\Visual Studio Projects\nato-text-2-speech\bin\Debug\nato-text-2-speech.exe.config
+T:\Visual Studio Projects\nato-text-2-speech\bin\Debug\nato-text-2-speech.exe
+T:\Visual Studio Projects\nato-text-2-speech\bin\Debug\nato-text-2-speech.pdb
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato_text_2_speech.Properties.Resources.resources
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.csproj.GenerateResource.cache
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.csproj.CoreCompileInputs.cache
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.exe
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.pdb
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato_text_2_speech.Main.resources
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.csproj.AssemblyReference.cache
+T:\Visual Studio Projects\nato-text-2-speech\obj\Debug\nato-text-2-speech.csproj.SuggestedBindingRedirects.cache
